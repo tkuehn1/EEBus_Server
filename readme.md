@@ -11,8 +11,8 @@ Email: inf17127@lehre.dhbw-stuttgart.de, t.kuehn1@gmx.de
 Tel: 01733867778
 
 Volkan Kilic:
-Email:
-Tel:
+Email: inf17214@lehre.dhbw-stuttgart.de, volkan-kilic-oehringen@hotmail.de
+Tel: +49 1515 1679672
 
 ## DOCS
 
