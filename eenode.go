@@ -1,5 +1,0 @@
-package eenode
-
-func main() {
-
-}
