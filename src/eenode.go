@@ -1,7 +1,0 @@
-package src
-
-
-
-func main(){
-
-}
