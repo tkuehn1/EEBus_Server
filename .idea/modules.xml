@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/eenode.iml" filepath="$PROJECT_DIR$/.idea/eenode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Studienarbeit/.idea/Studienarbeit.iml" filepath="$PROJECT_DIR$/../Studienarbeit/.idea/Studienarbeit.iml" />
     </modules>
   </component>
 </project>
