@@ -2,10 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com"
+	src "github.com/tkuehn1/Studienarbeit_src"
 )
 
 func main() {
-	tcp_server.Tcp_conn()
+	go src.Tcp_conn()
+
+	src.Tcp_client()
+
 	fmt.Println("hello")
 }
