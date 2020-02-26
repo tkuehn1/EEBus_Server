@@ -6,9 +6,9 @@ import (
 )
 
 func main() {
-	go src.Tcp_conn()
+	//go src.Tcp_conn()
+	src.gpio()
+	//src.Tcp_client()
 
-	src.Tcp_client()
-
-	fmt.Println("hello")
+	//fmt.Println("hello")
 }
