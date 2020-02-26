@@ -9,6 +9,7 @@ import (
 func main() {
 
 	go src.Tcp_server()
+	go src.Tcp_client()
 	go src.Web_start()
 	for {
 		fmt.Println("test")
