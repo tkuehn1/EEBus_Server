@@ -1,3 +1,5 @@
 Specification of Implemetation:
-1. Registration Secure:
 
+Create certificate:
+go build -o lc-tlscert.exe tools\lc-tlscert.go
+.\lc-tlscert.exe

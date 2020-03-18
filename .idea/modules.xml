@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Studienarbeit/.idea/Studienarbeit.iml" filepath="$PROJECT_DIR$/../Studienarbeit/.idea/Studienarbeit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/eebus_server.iml" filepath="$PROJECT_DIR$/.idea/eebus_server.iml" />
     </modules>
   </component>
 </project>

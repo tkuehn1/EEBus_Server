@@ -1,2 +1,6 @@
 server.crt
 server.key
+EEBus_Server.exe
+EEBus_Server
+lc-tlscert.exe
+lc-tlscert
