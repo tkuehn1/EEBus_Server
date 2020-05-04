@@ -16,6 +16,6 @@ Tel: +49 1515 1679672
 
 ## DOCS
 
-Im Ordner Docs befindet sich die EEBUS SHIP (Smart Home IP) Spezifikation und die Dokumentation der Studienarbeit (später)
+Im Ordner Docs befinden sich die EEBUS SHIP (Smart Home IP) Spezifikation und die Dokumentation der Studienarbeit (später)
 
 
