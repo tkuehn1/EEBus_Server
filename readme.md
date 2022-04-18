@@ -7,12 +7,12 @@ EENODE soll eine in Go implementierte Softwareschnittstelle werden um IOT Gerät
 # Kontakt
 
 Tobias Kühn: 
-Email: inf17127@lehre.dhbw-stuttgart.de, t.kuehn1@gmx.de
+Email: inf17127@lehre.dhbw-stuttgart.de
 Tel: 01733867778
 
 Volkan Kilic:
-Email: inf17214@lehre.dhbw-stuttgart.de, volkan-kilic-oehringen@hotmail.de
-Tel: +49 1515 1679672
+Email: inf17214@lehre.dhbw-stuttgart.de
+
 
 ## DOCS
 
