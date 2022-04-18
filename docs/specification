@@ -1,5 +1,0 @@
-Specification of Implemetation:
-
-Create certificate:
-go build -o lc-tlscert.exe tools\lc-tlscert.go
-.\lc-tlscert.exe
